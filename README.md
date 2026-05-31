@@ -6,14 +6,35 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 사용자의 니즈를 고민하며 나아가 문제를 해결하기 위해서 아키텍처를 설계하는 주니어 개발자입니다.</li></li>목표를 향한 과정을 즐기며, 더 나은 결과를 위해 사고하는 것을 좋아합니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Backend / Data </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+          <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+        <br/>
+          </div>
+    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ AI / Data Science </h2> <br> 
+    <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+          <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+          <img src="https://img.shields.io/badge/MACHINE LEARNING?style=for-the-badge&logo=MACHINE LEARNING&logoColor=white">
+          </div>
+    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Web / Tools / Infra </h2> <br> 
+    <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          </div>
+    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Study </h2> <br> 
+    <div  align= "center"> <img src="https://img.shields.io/badge/RAG-3776AB?style=for-the-badge&logo=RAG&logoColor=white">
+          <img src="https://img.shields.io/badge/LangChain-06B6D4?style=for-the-badge&logo=LangChain&logoColor=white">
+          <img src="https://img.shields.io/badge/LangGraph-61DAFB?style=for-the-badge&logo=LangGraph&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
@@ -25,10 +46,7 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅[limur-kr GitHub Stats] </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=limur-kr&show_icons=true&theme=radical"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limur-kr&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅[limur-kr GitHub Stats] </h2> 
     </div>
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=원하는 테마)
     
