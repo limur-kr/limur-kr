@@ -25,8 +25,10 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=limur-kr&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅[limur-kr GitHub Stats] </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=limur-kr&show_icons=true&theme=radical"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limur-kr&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=원하는 테마)
     
