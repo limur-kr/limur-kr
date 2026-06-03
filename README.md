@@ -42,7 +42,7 @@
     <div align= "center"> <a href=mailto:https://mail.google.com/mail/u/0/#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/#inbox"> </a>
          <a href=https://app.notion.com/p/2fe01fef3df9803ca297d86aca213a90?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://app.notion.com/p/2fe01fef3df9803ca297d86aca213a90?source=copy_link"> </a>
          <a href=https://blog.naver.com/ehdrms4459> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ehdrms4459"> </a>
-         <a href="https://limur-kr.github.io/#projects"> <img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=githubpages&logoColor=white"> </a>
+         <a href="https://limur-kr.github.io/"> <img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=githubpages&logoColor=white"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
